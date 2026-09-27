@@ -1,0 +1,24 @@
+request=01 input=3118 output=15 status=200 latency=0.1188s
+request=02 input=901 output=206 status=200 latency=0.433s
+request=03 input=3118 output=21 status=200 latency=0.0702s
+request=04 input=3203 output=18 status=200 latency=0.0683s
+request=05 input=1676 output=598 status=200 latency=1.3092s
+request=06 input=1116 output=385 status=200 latency=0.824s
+request=07 input=3181 output=21 status=200 latency=0.0771s
+request=08 input=2171 output=747 status=200 latency=1.635s
+request=09 input=3259 output=25 status=200 latency=0.0873s
+request=11 input=3140 output=22 status=200 latency=0.0792s
+request=10 input=1159 output=316 status=200 latency=0.6785s
+request=12 input=3415 output=22 status=200 latency=0.0756s
+request=13 input=2178 output=56 status=200 latency=0.1425s
+request=14 input=3129 output=17 status=200 latency=0.064s
+request=15 input=1109 output=423 status=200 latency=0.9934s
+request=16 input=1690 output=511 status=200 latency=1.2121s
+request=17 input=896 output=286 status=200 latency=0.6234s
+request=18 input=2207 output=32 status=200 latency=0.0947s
+request=19 input=894 output=445 status=200 latency=0.9607s
+request=20 input=895 output=338 status=200 latency=0.736s
+
+完成：成功 20/20
+平均总延迟：0.5141s
+结果文件：results/workload_results.csv
